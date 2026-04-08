@@ -13,9 +13,799 @@
       "asset": "/assets/nikke/ade.webm"
     },
     {
+      "id": "ade_agent_bunny",
+      "name": "Ade: Agent Bunny",
+      "asset": "/assets/nikke/ade_agent_bunny.webm"
+    },
+    {
       "id": "admi",
       "name": "Admi",
       "asset": "/assets/nikke/admi.webm"
-    }
+    },
+    {
+      "id": "alice",
+      "name": "Alice",
+      "asset": "/assets/nikke/alice.webm"
+    },
+    {
+      "id": "alice_wonderland_bunny",
+      "name": "Alice: Wonderland Bunny",
+      "asset": "/assets/nikke/alice_wonderland_bunny.webm"
+    },
+    {
+      "id": "anchor",
+      "name": "Anchor",
+      "asset": "/assets/nikke/anchor.webm"
+    },
+    {
+      "id": "anchor_innocent_maid",
+      "name": "Anchor: Innocent Maid",
+      "asset": "/assets/nikke/anchor_innocent_maid.webm"
+    },
+    {
+      "id": "anis",
+      "name": "Anis",
+      "asset": "/assets/nikke/anis.webm"
+    },
+    {
+      "id": "anis_sparkling_summer",
+      "name": "Anis: Sparkling Summer",
+      "asset": "/assets/nikke/anis_sparkling_summer.webm"
+    },
+    {
+      "id": "anne_miracle_fairy",
+      "name": "Anne: Miracle Fairy",
+      "asset": "/assets/nikke/anne_miracle_fairy.webm"
+    },
+    {
+      "id": "arcana",
+      "name": "Arcana",
+      "asset": "/assets/nikke/arcana.webm"
+    },
+    {
+      "id": "arcana_fortune_mate",
+      "name": "Arcana: Fortune Mate",
+      "asset": "/assets/nikke/arcana_fortune_mate.webm"
+    },
+    {
+      "id": "bahamut",
+      "name": "Bahamut",
+      "asset": "/assets/nikke/bahamut.webm"
+    },
+    {
+      "id": "bay",
+      "name": "Bay",
+      "asset": "/assets/nikke/bay.webm"
+    },
+    {
+      "id": "behemoth",
+      "name": "Behemoth",
+      "asset": "/assets/nikke/behemoth.webm"
+    },
+    {
+      "id": "belorta",
+      "name": "Belorta",
+      "asset": "/assets/nikke/belorta.webm"
+    },
+    {
+      "id": "biscuit",
+      "name": "Biscuit",
+      "asset": "/assets/nikke/biscuit.webm"
+    },
+    {
+      "id": "blanc",
+      "name": "Blanc",
+      "asset": "/assets/nikke/blanc.webm"
+    },
+    {
+      "id": "blanc_fortune_express",
+      "name": "Blanc: Fortune Express",
+      "asset": "/assets/nikke/blanc_fortune_express.webm"
+    },
+    {
+      "id": "bready",
+      "name": "Bready",
+      "asset": "/assets/nikke/bready.webm"
+    },
+    {
+      "id": "brid",
+      "name": "Brid",
+      "asset": "/assets/nikke/brid.webm"
+    },
+    {
+      "id": "brid_silent_track",
+      "name": "Brid: Silent Track",
+      "asset": "/assets/nikke/brid_silent_track.webm"
+    },
+    {
+      "id": "cecil",
+      "name": "Cecil",
+      "asset": "/assets/nikke/cecil.webm"
+    },
+    {
+      "id": "centi",
+      "name": "Centi",
+      "asset": "/assets/nikke/centi.webm"
+    },
+    {
+      "id": "chime",
+      "name": "Chime",
+      "asset": "/assets/nikke/chime.webm"
+    },
+    {
+      "id": "cielo",
+      "name": "Cielo",
+      "asset": "/assets/nikke/cielo.webm"
+    },
+    {
+      "id": "cinderella",
+      "name": "Cinderella",
+      "asset": "/assets/nikke/cinderella.webm"
+    },
+    {
+      "id": "cinderella_glass_princess",
+      "name": "Cinderella: Glass Princess",
+      "asset": "/assets/nikke/cinderella_glass_princess.webm"
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "asset": "/assets/nikke/clay.webm"
+    },
+    {
+      "id": "cocoa",
+      "name": "Cocoa",
+      "asset": "/assets/nikke/cocoa.webm"
+    },
+    {
+      "id": "crow",
+      "name": "Crow",
+      "asset": "/assets/nikke/crow.webm"
+    },
+    {
+      "id": "crown",
+      "name": "Crown",
+      "asset": "/assets/nikke/crown.webm"
+    },
+    {
+      "id": "crown_naked_king",
+      "name": "Crown: Naked King",
+      "asset": "/assets/nikke/crown_naked_king.webm"
+    },
+    {
+      "id": "crust",
+      "name": "Crust",
+      "asset": "/assets/nikke/crust.webm"
+    },
+    {
+      "id": "d",
+      "name": "D",
+      "asset": "/assets/nikke/d.webm"
+    },
+    {
+      "id": "d_killer_wife",
+      "name": "D: Killer Wife",
+      "asset": "/assets/nikke/d_killer_wife.webm"
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "asset": "/assets/nikke/delta.webm"
+    },
+    {
+      "id": "delta_ninja_thief",
+      "name": "Delta: Ninja Thief",
+      "asset": "/assets/nikke/delta_ninja_thief.webm"
+    },
+    {
+      "id": "diesel",
+      "name": "Diesel",
+      "asset": "/assets/nikke/diesel.webm"
+    },
+    {
+      "id": "diesel_winter_sweets",
+      "name": "Diesel: Winter Sweets",
+      "asset": "/assets/nikke/diesel_winter_sweets.webm"
+    },
+    {
+      "id": "dolla",
+      "name": "Dolla",
+      "asset": "/assets/nikke/dolla.webm"
+    },
+    {
+      "id": "dorothy",
+      "name": "Dorothy",
+      "asset": "/assets/nikke/dorothy.webm"
+    },
+    {
+      "id": "dorothy_serendipity",
+      "name": "Dorothy: Serendipity",
+      "asset": "/assets/nikke/dorothy_serendipity.webm"
+    },
+    {
+      "id": "drake",
+      "name": "Drake",
+      "asset": "/assets/nikke/drake.webm"
+    },
+    {
+      "id": "ein",
+      "name": "Ein",
+      "asset": "/assets/nikke/ein.webm"
+    },
+    {
+      "id": "einkk",
+      "name": "Einkk",
+      "asset": "/assets/nikke/einkk.webm"
+    },
+    {
+      "id": "elegg",
+      "name": "Elegg",
+      "asset": "/assets/nikke/elegg.webm"
+    },
+    {
+      "id": "elegg_boom_and_shock",
+      "name": "Elegg: Boom and Shock",
+      "asset": "/assets/nikke/elegg_boom_and_shock.webm"
+    },
+    {
+      "id": "emma",
+      "name": "Emma",
+      "asset": "/assets/nikke/emma.webm"
+    },
+    {
+      "id": "emma_tactical_upgrade",
+      "name": "Emma: Tactical Upgrade",
+      "asset": "/assets/nikke/emma_tactical_upgrade.webm"
+    },
+    {
+      "id": "endless",
+      "name": "Endless",
+      "asset": "/assets/nikke/endless.webm"
+    },
+    {
+      "id": "enikk",
+      "name": "Enikk",
+      "asset": "/assets/nikke/enikk.webm"
+    },
+    {
+      "id": "epinel",
+      "name": "Epinel",
+      "asset": "/assets/nikke/epinel.webm"
+    },
+    {
+      "id": "eternity",
+      "name": "Eternity",
+      "asset": "/assets/nikke/eternity.webm"
+    },
+    {
+      "id": "ether",
+      "name": "Ether",
+      "asset": "/assets/nikke/ether.webm"
+    },
+    {
+      "id": "eunhwa",
+      "name": "Eunhwa",
+      "asset": "/assets/nikke/eunhwa.webm"
+    },
+    {
+      "id": "eunhwa_tactical_upgrade",
+      "name": "Eunhwa: Tactical Upgrade",
+      "asset": "/assets/nikke/eunhwa_tactical_upgrade.webm"
+    },
+    {
+      "id": "exia",
+      "name": "Exia",
+      "asset": "/assets/nikke/exia.webm"
+    },
+    {
+      "id": "eyeri",
+      "name": "Eyeri",
+      "asset": "/assets/nikke/eyeri.webm"
+    },
+    {
+      "id": "flora",
+      "name": "Flora",
+      "asset": "/assets/nikke/flora.webm"
+    },
+    {
+      "id": "folkwang",
+      "name": "Folkwang",
+      "asset": "/assets/nikke/folkwang.webm"
+    },
+    {
+      "id": "fragile",
+      "name": "Fragile",
+      "asset": "/assets/nikke/fragile.webm"
+    },
+    {
+      "id": "freesia",
+      "name": "Freesia",
+      "asset": "/assets/nikke/freesia.webm"
+    },
+    {
+      "id": "frima",
+      "name": "Frima",
+      "asset": "/assets/nikke/frima.webm"
+    },
+    {
+      "id": "grave",
+      "name": "Grave",
+      "asset": "/assets/nikke/grave.webm"
+    },
+    {
+      "id": "gretel",
+      "name": "Gretel",
+      "asset": "/assets/nikke/gretel.webm"
+    },
+    {
+      "id": "guillotine",
+      "name": "Guillotine",
+      "asset": "/assets/nikke/guillotine.webm"
+    },
+    {
+      "id": "guilty",
+      "name": "Guilty",
+      "asset": "/assets/nikke/guilty.webm"
+    },
+    {
+      "id": "hammering",
+      "name": "Hammering",
+      "asset": "/assets/nikke/hammering.webm"
+    },
+    {
+      "id": "hansel",
+      "name": "Hansel",
+      "asset": "/assets/nikke/hansel.webm"
+    },
+    {
+      "id": "harran",
+      "name": "Harran",
+      "asset": "/assets/nikke/harran.webm"
+    },
+    {
+      "id": "helm",
+      "name": "Helm",
+      "asset": "/assets/nikke/helm.webm"
+    },
+    {
+      "id": "helm_post-shower_moment",
+      "name": "Helm: Post-Shower Moment",
+      "asset": "/assets/nikke/helm_post-shower_moment.webm"
+    },
+    {
+      "id": "indivilia",
+      "name": "Indivilia",
+      "asset": "/assets/nikke/indivilia.webm"
+    },
+    {
+      "id": "isabel",
+      "name": "Isabel",
+      "asset": "/assets/nikke/isabel.webm"
+    },
+    {
+      "id": "jackal",
+      "name": "Jackal",
+      "asset": "/assets/nikke/jackal.webm"
+    },
+    {
+      "id": "julia",
+      "name": "Julia",
+      "asset": "/assets/nikke/julia.webm"
+    },
+    {
+      "id": "k",
+      "name": "K",
+      "asset": "/assets/nikke/k.webm"
+    },
+    {
+      "id": "kilo",
+      "name": "Kilo",
+      "asset": "/assets/nikke/kilo.webm"
+    },
+    {
+      "id": "label",
+      "name": "Label",
+      "asset": "/assets/nikke/label.webm"
+    },
+    {
+      "id": "laplace",
+      "name": "Laplace",
+      "asset": "/assets/nikke/laplace.webm"
+    },
+    {
+      "id": "leona",
+      "name": "Leona",
+      "asset": "/assets/nikke/leona.webm"
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "asset": "/assets/nikke/leviathan.webm"
+    },
+    {
+      "id": "liberalio",
+      "name": "Liberalio",
+      "asset": "/assets/nikke/liberalio.webm"
+    },
+    {
+      "id": "liliweiss",
+      "name": "Liliweiss",
+      "asset": "/assets/nikke/liliweiss.webm"
+    },
+    {
+      "id": "liter",
+      "name": "Liter",
+      "asset": "/assets/nikke/liter.webm"
+    },
+    {
+      "id": "little_mermaid",
+      "name": "Little Mermaid",
+      "asset": "/assets/nikke/little_mermaid.webm"
+    },
+    {
+      "id": "liveryn",
+      "name": "Liveryn",
+      "asset": "/assets/nikke/liveryn.webm"
+    },
+    {
+      "id": "logey",
+      "name": "Logey",
+      "asset": "/assets/nikke/logey.webm"
+    },
+    {
+      "id": "ludmilla",
+      "name": "Ludmilla",
+      "asset": "/assets/nikke/ludmilla.webm"
+    },
+    {
+      "id": "ludmilla_winter_owner",
+      "name": "Ludmilla: Winter Owner",
+      "asset": "/assets/nikke/ludmilla_winter_owner.webm"
+    },
+    {
+      "id": "maiden",
+      "name": "Maiden",
+      "asset": "/assets/nikke/maiden.webm"
+    },
+    {
+      "id": "maiden_ice_rose",
+      "name": "Maiden: Ice Rose",
+      "asset": "/assets/nikke/maiden_ice_rose.webm"
+    },
+    {
+      "id": "mana",
+      "name": "Mana",
+      "asset": "/assets/nikke/mana.webm"
+    },
+    {
+      "id": "marciana",
+      "name": "Marciana",
+      "asset": "/assets/nikke/marciana.webm"
+    },
+    {
+      "id": "marciana_school_days",
+      "name": "Marciana: School Days",
+      "asset": "/assets/nikke/marciana_school_days.webm"
+    },
+    {
+      "id": "marian",
+      "name": "Marian",
+      "asset": "/assets/nikke/marian.webm"
+    },
+    {
+      "id": "mary",
+      "name": "Mary",
+      "asset": "/assets/nikke/mary.webm"
+    },
+    {
+      "id": "mary_bay_goddess",
+      "name": "Mary: Bay Goddess",
+      "asset": "/assets/nikke/mary_bay_goddess.webm"
+    },
+    {
+      "id": "mast",
+      "name": "Mast",
+      "asset": "/assets/nikke/mast.webm"
+    },
+    {
+      "id": "mast_romantic_maid",
+      "name": "Mast: Romantic Maid",
+      "asset": "/assets/nikke/mast_romantic_maid.webm"
+    },
+    {
+      "id": "maxwell",
+      "name": "Maxwell",
+      "asset": "/assets/nikke/maxwell.webm"
+    },
+    {
+      "id": "mecha_shifty",
+      "name": "Mecha Shifty",
+      "asset": "/assets/nikke/mecha_shifty.webm"
+    },
+    {
+      "id": "mica",
+      "name": "Mica",
+      "asset": "/assets/nikke/mica.webm"
+    },
+    {
+      "id": "mihara",
+      "name": "Mihara",
+      "asset": "/assets/nikke/mihara.webm"
+    },
+    {
+      "id": "mihara_bonding_chain",
+      "name": "Mihara: Bonding Chain",
+      "asset": "/assets/nikke/mihara_bonding_chain.webm"
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "asset": "/assets/nikke/milk.webm"
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "asset": "/assets/nikke/mint.webm"
+    },
+    {
+      "id": "miranda",
+      "name": "Miranda",
+      "asset": "/assets/nikke/miranda.webm"
+    },
+    {
+      "id": "modernia",
+      "name": "Modernia",
+      "asset": "/assets/nikke/modernia.webm"
+    },
+    {
+      "id": "modernia_second_affection",
+      "name": "Modernia: Second Affection",
+      "asset": "/assets/nikke/modernia_second_affection.webm"
+    },
+    {
+      "id": "moran",
+      "name": "Moran",
+      "asset": "/assets/nikke/moran.webm"
+    },
+    {
+      "id": "mori",
+      "name": "Mori",
+      "asset": "/assets/nikke/mori.webm"
+    },
+    {
+      "id": "n102",
+      "name": "N102",
+      "asset": "/assets/nikke/n102.webm"
+    },
+    {
+      "id": "nadia",
+      "name": "Nadia",
+      "asset": "/assets/nikke/nadia.webm"
+    },
+    {
+      "id": "naga",
+      "name": "Naga",
+      "asset": "/assets/nikke/naga.webm"
+    },
+    {
+      "id": "nayuta",
+      "name": "Nayuta",
+      "asset": "/assets/nikke/nayuta.webm"
+    },
+    {
+      "id": "neon",
+      "name": "Neon",
+      "asset": "/assets/nikke/neon.webm"
+    },
+    {
+      "id": "neon_plus",
+      "name": "Neon",
+      "asset": "/assets/nikke/neon_plus.webm"
+    },
+    {
+      "id": "nero",
+      "name": "Nero",
+      "asset": "/assets/nikke/nero.webm"
+    },
+    {
+      "id": "neve",
+      "name": "Neve",
+      "asset": "/assets/nikke/neve.webm"
+    },
+    {
+      "id": "nihilister",
+      "name": "Nihilister",
+      "asset": "/assets/nikke/nihilister.webm"
+    },
+    {
+      "id": "noah",
+      "name": "Noah",
+      "asset": "/assets/nikke/noah.webm"
+    },
+    {
+      "id": "noir",
+      "name": "Noir",
+      "asset": "/assets/nikke/noir.webm"
+    },
+    {
+      "id": "noise",
+      "name": "Noise",
+      "asset": "/assets/nikke/noise.webm"
+    },
+    {
+      "id": "noise_classic_diva",
+      "name": "Noise: Classic Diva",
+      "asset": "/assets/nikke/noise_classic_diva.webm"
+    },
+    {
+      "id": "novel",
+      "name": "Novel",
+      "asset": "/assets/nikke/novel.webm"
+    },
+    {
+      "id": "papillon",
+      "name": "Papillon",
+      "asset": "/assets/nikke/papillon.webm"
+    },
+    {
+      "id": "pepper",
+      "name": "Pepper",
+      "asset": "/assets/nikke/pepper.webm"
+    },
+    {
+      "id": "phantom",
+      "name": "Phantom",
+      "asset": "/assets/nikke/phantom.webm"
+    },
+    {
+      "id": "pinne",
+      "name": "Pinne",
+      "asset": "/assets/nikke/pinne.webm"
+    },
+    {
+      "id": "poli",
+      "name": "Poli",
+      "asset": "/assets/nikke/poli.webm"
+    },
+    {
+      "id": "privaty",
+      "name": "Privaty",
+      "asset": "/assets/nikke/privaty.webm"
+    },
+    {
+      "id": "privaty_sharp_lesson",
+      "name": "Privaty: Sharp Lesson",
+      "asset": "/assets/nikke/privaty_sharp_lesson.webm"
+    },
+    {
+      "id": "quency",
+      "name": "Quency",
+      "asset": "/assets/nikke/quency.webm"
+    },
+    {
+      "id": "quency_escape_queen",
+      "name": "Quency: Escape Queen",
+      "asset": "/assets/nikke/quency_escape_queen.webm"
+    },
+    {
+      "id": "quiry",
+      "name": "Quiry",
+      "asset": "/assets/nikke/quiry.webm"
+    },
+    {
+      "id": "rapi",
+      "name": "Rapi",
+      "asset": "/assets/nikke/rapi.webm"
+    },
+    {
+      "id": "rapi_red_hood",
+      "name": "Rapi: Red Hood",
+      "asset": "/assets/nikke/rapi_red_hood.webm"
+    },
+    {
+      "id": "rapi_red_hood_red_flavor",
+      "name": "Rapi: Red Hood: Red Flavor",
+      "asset": "/assets/nikke/rapi_red_hood_red_flavor.webm"
+    },
+    {
+      "id": "rapi_red_hood_cherished_red",
+      "name": "Rapi: Red Hood: Cherished Red",
+      "asset": "/assets/nikke/rapi_red_hood_cherished_red.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
+    {
+      "id": "",
+      "name": "",
+      "asset": "/assets/nikke/.webm"
+    },
   ]
 }
