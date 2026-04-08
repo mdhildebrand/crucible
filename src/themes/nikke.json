@@ -1,0 +1,21 @@
+{
+  "id": "nikke",
+  "name": "NIKKE",
+  "characters": [
+    {
+      "id": "abe",
+      "name": "Abe",
+      "asset": "/assets/nikke/abe.webm"
+    },
+    {
+      "id": "ade",
+      "name": "Ade",
+      "asset": "/assets/nikke/ade.webm"
+    },
+    {
+      "id": "admi",
+      "name": "Admi",
+      "asset": "/assets/nikke/admi.webm"
+    }
+  ]
+}
