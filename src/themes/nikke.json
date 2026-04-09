@@ -713,99 +713,214 @@
       "asset": "/assets/nikke/rapi_red_hood_cherished_red.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rapunzel",
+      "name": "Rapunzel",
+      "asset": "/assets/nikke/rapunzel.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "red_hood",
+      "name": "Red Hood",
+      "asset": "/assets/nikke/red_hood.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "red_hood_nonsense_red",
+      "name": "Red Hood: Nonsense Red",
+      "asset": "/assets/nikke/red_hood_nonsense_red.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rei",
+      "name": "Rei",
+      "asset": "/assets/nikke/rei.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rian",
+      "name": "Rian",
+      "asset": "/assets/nikke/rian.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rosanna",
+      "name": "Rosanna",
+      "asset": "/assets/nikke/rosanna.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rosanna_chic_ocean",
+      "name": "Rosanna: Chic Ocean",
+      "asset": "/assets/nikke/rosanna_chic_ocean.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rose",
+      "name": "Rose",
+      "asset": "/assets/nikke/rose.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rouge",
+      "name": "Rouge",
+      "asset": "/assets/nikke/rouge.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rouge_unlucky_rabbit",
+      "name": "Rouge: Unlucky Rabbit",
+      "asset": "/assets/nikke/rouge_unlucky_rabbit.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rumani",
+      "name": "Rumani",
+      "asset": "/assets/nikke/rumani.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rupee",
+      "name": "Rupee",
+      "asset": "/assets/nikke/rupee.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "rupee_rabbit_deluxe",
+      "name": "Rupee: Rabbit Deluxe",
+      "asset": "/assets/nikke/rupee_rabbit_deluxe.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "sakura",
+      "name": "Sakura",
+      "asset": "/assets/nikke/sakura.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "sakura_bloom_in_summer",
+      "name": "Sakura: Bloom in Summer",
+      "asset": "/assets/nikke/sakura_bloom_in_summer.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "scarlet",
+      "name": "Scarlet",
+      "asset": "/assets/nikke/scarlet.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "scarlet_black_shadow",
+      "name": "Scarlet: Black Shadow",
+      "asset": "/assets/nikke/scarlet_black_shadow.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "shifty",
+      "name": "Shifty",
+      "asset": "/assets/nikke/shifty.webm"
     },
     {
-      "id": "",
-      "name": "",
-      "asset": "/assets/nikke/.webm"
+      "id": "signal",
+      "name": "Signal",
+      "asset": "/assets/nikke/signal.webm"
     },
+    {
+      "id": "sin",
+      "name": "Sin",
+      "asset": "/assets/nikke/sin.webm"
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "asset": "/assets/nikke/sky.webm"
+    },
+    {
+      "id": "snow_white",
+      "name": "Snow White",
+      "asset": "/assets/nikke/snow_white.webm"
+    },
+    {
+      "id": "soda",
+      "name": "Soda",
+      "asset": "/assets/nikke/soda.webm"
+    },
+    {
+      "id": "soda_twinkling_bunny",
+      "name": "Soda: Twinkling Bunny",
+      "asset": "/assets/nikke/soda_twinkling_bunny.webm"
+    },
+    {
+      "id": "soline",
+      "name": "Soline",
+      "asset": "/assets/nikke/soline.webm"
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "asset": "/assets/nikke/sora.webm"
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "asset": "/assets/nikke/sugar.webm"
+    },
+    {
+      "id": "tia",
+      "name": "Tia",
+      "asset": "/assets/nikke/tia.webm"
+    },
+    {
+      "id": "tove",
+      "name": "Tove",
+      "asset": "/assets/nikke/tove.webm"
+    },
+    {
+      "id": "trina",
+      "name": "Trina",
+      "asset": "/assets/nikke/trina.webm"
+    },
+    {
+      "id": "trony",
+      "name": "Trony",
+      "asset": "/assets/nikke/trony.webm"
+    },
+    {
+      "id": "velvet",
+      "name": "Velvet",
+      "asset": "/assets/nikke/velvet.webm"
+    },
+    {
+      "id": "vesti",
+      "name": "Vesti",
+      "asset": "/assets/nikke/vesti.webm"
+    },
+    {
+      "id": "vesti_tactical_upgrade",
+      "name": "Vesti: Tactical Upgrade",
+      "asset": "/assets/nikke/vesti_tactical_upgrade.webm"
+    },
+    {
+      "id": "viper",
+      "name": "Viper",
+      "asset": "/assets/nikke/viper.webm"
+    },
+    {
+      "id": "viper_shine_of_love",
+      "name": "Viper: Shine of Love",
+      "asset": "/assets/nikke/viper_shine_of_love.webm"
+    },
+    {
+      "id": "volume",
+      "name": "Volume",
+      "asset": "/assets/nikke/volume.webm"
+    },
+    {
+      "id": "yan",
+      "name": "Yan",
+      "asset": "/assets/nikke/yan.webm"
+    },
+    {
+      "id": "yulha",
+      "name": "Yulha",
+      "asset": "/assets/nikke/yulha.webm"
+    },
+    {
+      "id": "yuni",
+      "name": "Yuni",
+      "asset": "/assets/nikke/yuni.webm"
+    },
+    {
+      "id": "ziz",
+      "name": "Ziz",
+      "asset": "/assets/nikke/ziz.webm"
+    },
+    {
+      "id": "zwei",
+      "name": "Zwei",
+      "asset": "/assets/nikke/zwei.webm"
+    }
   ]
 }

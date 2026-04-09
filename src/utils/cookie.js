@@ -1,16 +1,13 @@
-import Cookies from 'js-cookie';
+const STORAGE_PREFIX = 'crucible_';
 
-const COOKIE_PREFIX = 'crucible_';
-const COOKIE_EXPIRY = 365; // days
-
-function getCookieKey(themeId) {
-  return `${COOKIE_PREFIX}${themeId}`;
+function getKey(themeId) {
+  return `${STORAGE_PREFIX}${themeId}`;
 }
 
 export function getSession(themeId) {
-  const raw = Cookies.get(getCookieKey(themeId));
-  if (!raw) return null;
   try {
+    const raw = localStorage.getItem(getKey(themeId));
+    if (!raw) return null;
     return JSON.parse(raw);
   } catch {
     return null;
@@ -29,9 +26,7 @@ export function createSession(themeId, characterIds) {
 }
 
 export function saveSession(themeId, session) {
-  Cookies.set(getCookieKey(themeId), JSON.stringify(session), {
-    expires: COOKIE_EXPIRY,
-  });
+  localStorage.setItem(getKey(themeId), JSON.stringify(session));
 }
 
 export function recordVerdict(themeId, characterId, verdict) {
@@ -44,7 +39,7 @@ export function recordVerdict(themeId, characterId, verdict) {
 }
 
 export function resetSession(themeId, characterIds) {
-  Cookies.remove(getCookieKey(themeId));
+  localStorage.removeItem(getKey(themeId));
   return createSession(themeId, characterIds);
 }
 
