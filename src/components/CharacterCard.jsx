@@ -3,7 +3,7 @@ export default function CharacterCard({ character }) {
     <div className="character-card">
       <video
         key={character.id}
-        src={character.asset}
+        src={`${import.meta.env.BASE_URL}${character.asset}`}
         autoPlay
         loop
         muted
